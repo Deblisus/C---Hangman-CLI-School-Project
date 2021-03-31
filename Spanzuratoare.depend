@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1614010306 source:d:\scoala\info\proiecte\spanzuratoare\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
